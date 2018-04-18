@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_sodophong"
+            android:title="Sơ đồ phòng" />
+        <item
+            android:id="@+id/nav_dsdatphong"
+            android:title="Danh sách đặt phòng"/>
+        <item
+            android:id="@+id/nav_thaydoidatphong"
+            android:title="Thay đổi đặt phòng" />
+        <item
+            android:id="@+id/nav_huydatphong"
+            android:title="Hủy đặt phòng" />
+        <item
+            android:id="@+id/nav_saochepdatphong"
+            android:title="Sao chép đặt phòng" />
+        <item
+            android:id="@+id/nav_dskhachhang"
+            android:title="Danh sách khách hàng" />>
+    </group>
+
+</menu>
